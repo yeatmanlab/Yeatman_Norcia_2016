@@ -6,6 +6,7 @@ Code and data associated with Yeatman and Norcia (2016).
 contact; jyeatman@uw.edu
 
 If you use this code please cite the paper:
+
 Yeatman, J.D. and Norcia, A.M., 2016. 
 Temporal tuning of word-and face-selective cortex. Journal of cognitive neuroscience.
 http://www.mitpressjournals.org/doi/10.1162/jocn_a_01002
